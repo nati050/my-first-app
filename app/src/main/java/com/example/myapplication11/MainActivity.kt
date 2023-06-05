@@ -58,5 +58,5 @@ fun GreetingPreview() {
     MyApplication11Theme {
         Greeting("Android")
     }
-    //number ari=5
+    //number ari=569
 }
